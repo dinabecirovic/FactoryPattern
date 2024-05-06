@@ -1,0 +1,30 @@
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.exe
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.deps.json
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.runtimeconfig.json
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.dll
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.pdb
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.csproj.AssemblyReference.cache
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.AssemblyInfoInputs.cache
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.AssemblyInfo.cs
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.csproj.CoreCompileInputs.cache
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.dll
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\refint\ProizvodniMetod.dll
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.pdb
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.genruntimeconfig.cache
+C:\Users\Dina\source\repos\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ref\ProizvodniMetod.dll
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.exe
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.deps.json
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.runtimeconfig.json
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.dll
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\bin\Debug\net6.0\ProizvodniMetod.pdb
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.csproj.AssemblyReference.cache
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.AssemblyInfoInputs.cache
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.AssemblyInfo.cs
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.csproj.CoreCompileInputs.cache
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.dll
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\refint\ProizvodniMetod.dll
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.pdb
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ProizvodniMetod.genruntimeconfig.cache
+C:\Users\Dina\Desktop\IS-1. domaci\ProizvodniMetod\ProizvodniMetod\obj\Debug\net6.0\ref\ProizvodniMetod.dll
